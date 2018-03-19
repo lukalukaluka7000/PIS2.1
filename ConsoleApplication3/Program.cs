@@ -12,6 +12,7 @@ namespace ConsoleApplication3
         {
             Console.WriteLine("Printam dobar!");
             Console.WriteLine("Aloalo");
+            Console.WriteLine("Letimo");
         }
     }
 }
